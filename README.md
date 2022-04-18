@@ -23,17 +23,17 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 
 ## Algorithm
 ```
-1.Inputs X, arrive through the preconnected path\
-2.Input is modeled using real weights W. The weights are usually randomly selected.\
-3.Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.\ 
-4.Calculate the error in the outputs\
+1.Inputs X, arrive through the preconnected path
+2.Input is modeled using real weights W. The weights are usually randomly selected.
+3.Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.
+4.Calculate the error in the outputs
 
 ## Program:
 ```
 /*
-Program to implement random classification.
-Developed by   : BALAJI N
-RegisterNumber :  212220230006
+Program to implement random classification\
+Developed by   : BALAJI N\
+RegisterNumber :  212220230006\
 */
 ```
 ```python
