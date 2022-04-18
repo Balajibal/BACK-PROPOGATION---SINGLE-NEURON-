@@ -60,9 +60,7 @@ print(w)
 ```
 
 ## Output:
-```
 ![Screenshot (84)](https://user-images.githubusercontent.com/75234946/163837492-a423177c-28e6-42ee-b97c-657d6021756a.png)
-```
 
 ## Result:
 ```
