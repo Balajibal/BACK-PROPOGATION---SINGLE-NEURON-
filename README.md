@@ -36,8 +36,7 @@ Developed by   : BALAJI N
 RegisterNumber :  212220230006
 */
 ```
-
-```
+```python
 import numpy as np
 i=1.5    
 w_o=0.8  
